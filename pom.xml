@@ -6,7 +6,7 @@
 
   <groupId>com.mycompany.app</groupId>
   <artifactId>ion</artifactId>
-  <version>1.0</version>
+  <version>1.0-${BUILD_NUMBER}</version>
   <packaging>war</packaging>
 
   <name>ion Maven Webapp</name>
